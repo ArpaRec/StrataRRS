@@ -1,0 +1,246 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 873355845, guid: 0a9abf5aac8c3734a9988435a0dc550f, type: 3}
+  m_Name: RoomSceneLinkConfig
+  m_EditorClassIdentifier: 
+  entries:
+  - MainScene: {fileID: 102900000, guid: 738b2e3cb5524c9b1623478c7707967a, type: 3}
+    ObjectScene: {fileID: 102900000, guid: e572248cdf08faf499ad108079ab5ca5, type: 3}
+    RoomId: 1069513744404819641
+    SubRoomId: 1595197361637267066
+    RoomName: ClimbTower_RRS
+    SubRoomName: Home
+  - MainScene: {fileID: 102900000, guid: 738b2e3cb5524c9b769c477a7f1015b0, type: 3}
+    ObjectScene: {fileID: 102900000, guid: b4c3264ed9ef9a84db910b75c3c3009d, type: 3}
+    RoomId: 4431089245357827588
+    SubRoomId: 8546784784285701552
+    RoomName: randompersongms_MakerRoom_9729
+    SubRoomName: Home
+  - MainScene: {fileID: 102900000, guid: 738b2e3cb5524c9b46b92d89b978e733, type: 3}
+    ObjectScene: {fileID: 102900000, guid: 1461ca2bf67b6c64dafcba64a4f6c7dd, type: 3}
+    RoomId: 183051726975983116
+    SubRoomId: 5096154522891904819
+    RoomName: screenshare_room4423342432
+    SubRoomName: Home
+  - MainScene: {fileID: 102900000, guid: 738b2e3cb5524c9b183b406a3e824952, type: 3}
+    ObjectScene: {fileID: 102900000, guid: b62c5a5b3fd29914a84984e5298250b2, type: 3}
+    RoomId: 5622368338359148057
+    SubRoomId: 1746060105595636050
+    RoomName: randompersongms_MakerRoom2_6885
+    SubRoomName: Home
+  - MainScene: {fileID: 102900000, guid: 738b2e3cb5524c9b25f1a5a45f3ad7d1, type: 3}
+    ObjectScene: {fileID: 102900000, guid: 1c102156d8c0d7f4bb30bc60419f54b7, type: 3}
+    RoomId: 597100451968533837
+    SubRoomId: 2734148574181513169
+    RoomName: RoomsV2Sandbox_RRS
+    SubRoomName: Home
+  - MainScene: {fileID: 102900000, guid: 738b2e3cb5524c9b616a7416eb90c0e1, type: 3}
+    ObjectScene: {fileID: 102900000, guid: f4be185d91a88d64d9235d1926d57d2d, type: 3}
+    RoomId: 6587802365699330497
+    SubRoomId: 7019550611000574177
+    RoomName: DeathlySCPSite
+    SubRoomName: Home
+  - MainScene: {fileID: 102900000, guid: 738b2e3cb5524c9b5f4b92e1c2aef882, type: 3}
+    ObjectScene: {fileID: 102900000, guid: b7a8f0733b3ead347b3526c31204bdab, type: 3}
+    RoomId: 2339987660502024433
+    SubRoomId: 6866743555187996802
+    RoomName: scptest_rrs
+    SubRoomName: Home
+  - MainScene: {fileID: 102900000, guid: 738b2e3cb5524c9b10e5876990f87c28, type: 3}
+    ObjectScene: {fileID: 102900000, guid: 0cd4d70443bc1bc458be392d7fd662f1, type: 3}
+    RoomId: 8126181769955998751
+    SubRoomId: 1217528161747106856
+    RoomName: gtagrrs99
+    SubRoomName: Home
+  - MainScene: {fileID: 102900000, guid: 738b2e3cb5524c9b4f7c51d24a1de876, type: 3}
+    ObjectScene: {fileID: 102900000, guid: f506e8b89222149428647c9d87c8446a, type: 3}
+    RoomId: 7867073843842100908
+    SubRoomId: 5727542789736884342
+    RoomName: UnusedRoom
+    SubRoomName: Home
+  - MainScene: {fileID: 102900000, guid: 738b2e3cb5524c9b03978dd86177891d, type: 3}
+    ObjectScene: {fileID: 102900000, guid: 134c375b68e4fcd4bb4bc42e42fd2117, type: 3}
+    RoomId: 3330629238078144585
+    SubRoomId: 258831464084769053
+    RoomName: Site-438
+    SubRoomName: SpawnSubroom
+  - MainScene: {fileID: 102900000, guid: 738b2e3cb5524c9b32632e3c2b98e18e, type: 3}
+    ObjectScene: {fileID: 102900000, guid: 48137e14bddb2c0409af179b7cfbef51, type: 3}
+    RoomId: 1578750099621593784
+    SubRoomId: 3630796560555106702
+    RoomName: SCP-Site--87
+    SubRoomName: Main_UseForEvents
+  - MainScene: {fileID: 102900000, guid: 738b2e3cb5524c9b0dbf55025eaee5e1, type: 3}
+    ObjectScene: {fileID: 102900000, guid: ccec2dc744cc5e046acc80e7aa71b407, type: 3}
+    RoomId: 3869319761817682756
+    SubRoomId: 990603911711614433
+    RoomName: Site001.Ethics
+    SubRoomName: Home
+  - MainScene: {fileID: 102900000, guid: 738b2e3cb5524c9b1bf695e501174078, type: 3}
+    ObjectScene: {fileID: 102900000, guid: e75c5c6d5b298d642bd9dbd1c68c03fd, type: 3}
+    RoomId: 5148147537048501916
+    SubRoomId: 2014962694093226104
+    RoomName: TF-Site000.1
+    SubRoomName: Armours
+  - MainScene: {fileID: 102900000, guid: 738b2e3cb5524c9b302bcc7609d62205, type: 3}
+    ObjectScene: {fileID: 102900000, guid: 33851b328d553ba44bb4c164d1a12c22, type: 3}
+    RoomId: 3330629238078144585
+    SubRoomId: 3471092745162334725
+    RoomName: Site-438
+    SubRoomName: MainSubroom
+  - MainScene: {fileID: 102900000, guid: 738b2e3cb5524c9b7940f3197cd9f51c, type: 3}
+    ObjectScene: {fileID: 102900000, guid: d104d3231346c3b48b7072a6fb1fcc15, type: 3}
+    RoomId: 1578750099621593784
+    SubRoomId: 8737250567893153052
+    RoomName: SCP--Site-87
+    SubRoomName: EventSaveReload
+  - MainScene: {fileID: 102900000, guid: 738b2e3cb5524c9b4d6a5d4cae29bd67, type: 3}
+    ObjectScene: {fileID: 102900000, guid: f16b3d3416d75f541ba7f3cd23bab39a, type: 3}
+    RoomId: 805867392974803266
+    SubRoomId: 5578373672372649319
+    RoomName: SKOLATHOME
+    SubRoomName: Home
+  - MainScene: {fileID: 102900000, guid: 738b2e3cb5524c9b66db57db178414c2, type: 3}
+    ObjectScene: {fileID: 102900000, guid: 31c4d2c774f9dc8459db93b24223afa5, type: 3}
+    RoomId: 9030780106968903302
+    SubRoomId: 7411614210272269506
+    RoomName: BecomeARapperSimulator
+    SubRoomName: Home
+  - MainScene: {fileID: 102900000, guid: 738b2e3cb5524c9b13bb583e4619c552, type: 3}
+    ObjectScene: {fileID: 102900000, guid: f034e7aa99d431d45abd9cf13583c1d6, type: 3}
+    RoomId: 9217001714232617221
+    SubRoomId: 1421827131852834130
+    RoomName: GetMyPFP_RRS
+    SubRoomName: Home
+  - MainScene: {fileID: 102900000, guid: 738b2e3cb5524c9b0c1461279445e2b7, type: 3}
+    ObjectScene: {fileID: 102900000, guid: 34b298e27d1233141b91f99f7c2ad00e, type: 3}
+    RoomId: 1578750099621593784
+    SubRoomId: 870427450608575159
+    RoomName: SCP-Site87RP
+    SubRoomName: Spawn_UseforEvents
+  - MainScene: {fileID: 102900000, guid: 738b2e3cb5524c9b58bd74e1d80ffe04, type: 3}
+    ObjectScene: {fileID: 102900000, guid: 852e2fea0e15a564ab1c76286ad3abf9, type: 3}
+    RoomId: 6187978406564858140
+    SubRoomId: 6394395559277362692
+    RoomName: randompersongms_MakerRoom2_6015
+    SubRoomName: Home
+  - MainScene: {fileID: 102900000, guid: 738b2e3cb5524c9b47c5988ed2f4fb50, type: 3}
+    ObjectScene: {fileID: 102900000, guid: 780d4007998980643b43aa4c498bed42, type: 3}
+    RoomId: 4581822408524922630
+    SubRoomId: 5171707486296931152
+    RoomName: dikknwaidniaw
+    SubRoomName: Home
+  - MainScene: {fileID: 102900000, guid: 738b2e3cb5524c9b1a0b4bf5b3c10791, type: 3}
+    ObjectScene: {fileID: 102900000, guid: c31951235fe215c408d5a6d75ba8ca16, type: 3}
+    RoomId: 6655770790694192516
+    SubRoomId: 1876677188384786321
+    RoomName: CameraAddiction
+    SubRoomName: Home
+  - MainScene: {fileID: 102900000, guid: 738b2e3cb5524c9b52c0430af1c12f2d, type: 3}
+    ObjectScene: {fileID: 102900000, guid: 0ef8ecfba307f6f469a4477ead53b959, type: 3}
+    RoomId: 788328298575865856
+    SubRoomId: 5962839620923240237
+    RoomName: Site-462
+    SubRoomName: Home2
+  - MainScene: {fileID: 102900000, guid: 738b2e3cb5524c9b00000000038d1c85, type: 3}
+    ObjectScene: {fileID: 102900000, guid: 1663e47ff4a66cf469c2e5ec3e9596f5, type: 3}
+    RoomId: 58550883
+    SubRoomId: 59579525
+    RoomName: AsyncResearchInstitute
+    SubRoomName: Home
+  - MainScene: {fileID: 102900000, guid: 738b2e3cb5524c9b700ab5ac0831a261, type: 3}
+    ObjectScene: {fileID: 102900000, guid: da1a1ef9803d35e43b80443dad9c0ee9, type: 3}
+    RoomId: 3071278487111515690
+    SubRoomId: 8073465032491508321
+    RoomName: PortalRadioSpinning
+    SubRoomName: Home
+  - MainScene: {fileID: 102900000, guid: 738b2e3cb5524c9b2fc7d75ecedb8009, type: 3}
+    ObjectScene: {fileID: 102900000, guid: cd68a8579169d204bac74478cd151b1d, type: 3}
+    RoomId: 4801761054519118774
+    SubRoomId: 3442957242345422857
+    RoomName: QuestEnemyLevels
+    SubRoomName: SelectionRoom
+  - MainScene: {fileID: 102900000, guid: 738b2e3cb5524c9b3a8f66670c84011e, type: 3}
+    ObjectScene: {fileID: 102900000, guid: 4d0bf74fb0caff4489a39cf4eaba8a3c, type: 3}
+    RoomId: 4801761054519118774
+    SubRoomId: 4219703968647086366
+    RoomName: QuestEnemyLevels_Beta
+    SubRoomName: Golden
+  - MainScene: {fileID: 102900000, guid: 738b2e3cb5524c9b79fd53ed925fe759, type: 3}
+    ObjectScene: {fileID: 102900000, guid: ab1a2145d0be0a54fa1893d024e04526, type: 3}
+    RoomId: 2364480146262370327
+    SubRoomId: 8790274327525189465
+    RoomName: TerrainTest_RPGM
+    SubRoomName: Home
+  - MainScene: {fileID: 102900000, guid: 738b2e3cb5524c9b2dae68d4020d4522, type: 3}
+    ObjectScene: {fileID: 102900000, guid: 5446d1c20a4c7bc40925bb88dcf3ab42, type: 3}
+    RoomId: 8356197503401476090
+    SubRoomId: 3291683637431190818
+    RoomName: Mountains_RRS
+    SubRoomName: Home
+  - MainScene: {fileID: 102900000, guid: 738b2e3cb5524c9b7b7294da05e2e605, type: 3}
+    ObjectScene: {fileID: 102900000, guid: e29127bea8707114286bcda05614755b, type: 3}
+    RoomId: 2802850455340460551
+    SubRoomId: 8895335878132688389
+    RoomName: VeryDarkHangout_RRS
+    SubRoomName: Home
+  - MainScene: {fileID: 102900000, guid: 738b2e3cb5524c9b4a463ed06090d617, type: 3}
+    ObjectScene: {fileID: 102900000, guid: c75eb9c329e5a21429ec3282c67cd547, type: 3}
+    RoomId: 1717984578145938291
+    SubRoomId: 5352034271870637591
+    RoomName: Facility-0
+    SubRoomName: Home
+  - MainScene: {fileID: 102900000, guid: 738b2e3cb5524c9b3c94801a84aa8b15, type: 3}
+    ObjectScene: {fileID: 102900000, guid: 9efb7a7022a8600478a5aeede3a50fa0, type: 3}
+    RoomId: 7230005359045281415
+    SubRoomId: 4365254790212127509
+    RoomName: randompersonsTesting
+    SubRoomName: Home
+  - MainScene: {fileID: 102900000, guid: 738b2e3cb5524c9b2de4f4e1a6bdfab1, type: 3}
+    ObjectScene: {fileID: 102900000, guid: 4d5a0f2dc698ffc42802adafaba4176f, type: 3}
+    RoomId: 2854210525207035771
+    SubRoomId: 3307037276399073969
+    RoomName: SCP-106RRS
+    SubRoomName: Home
+  - MainScene: {fileID: 102900000, guid: 738b2e3cb5524c9b51d99dbc71f050ab, type: 3}
+    ObjectScene: {fileID: 102900000, guid: 49dd9b5cb0ca1f54b9d671ce913e4ffb, type: 3}
+    RoomId: 1717984578145938291
+    SubRoomId: 5897918619709362347
+    RoomName: Facility-0
+    SubRoomName: RRSMap_NOTFINISHED
+  - MainScene: {fileID: 102900000, guid: 738b2e3cb5524c9b280a23908a5c4a7e, type: 3}
+    ObjectScene: {fileID: 102900000, guid: 5b34c4ee1c7cf714ca1e7b5d23517529, type: 3}
+    RoomId: 1717984578145938291
+    SubRoomId: 2885157614987790974
+    RoomName: Facility-0
+    SubRoomName: Campfire_RRS
+  - MainScene: {fileID: 102900000, guid: 738b2e3cb5524c9b585e3cc97a9183cd, type: 3}
+    ObjectScene: {fileID: 102900000, guid: 459a641b2b0117f489ebd0d2eea626de, type: 3}
+    RoomId: 1650835278174564921
+    SubRoomId: 6367593759190909901
+    RoomName: Campfire_RRS
+    SubRoomName: Home
+  - MainScene: {fileID: 102900000, guid: 738b2e3cb5524c9b5a80e370a3d83689, type: 3}
+    ObjectScene: {fileID: 102900000, guid: a1feaed7729cf254482629437d0c4f12, type: 3}
+    RoomId: 6676130900056624340
+    SubRoomId: 6521462333357176457
+    RoomName: PFPTesting_RRS
+    SubRoomName: Home
+  - MainScene: {fileID: 102900000, guid: 738b2e3cb5524c9b6ef98008b25ffd5d, type: 3}
+    ObjectScene: {fileID: 102900000, guid: db05c52e30627ed4ca9e5ccd5216b1b8, type: 3}
+    RoomId: 8540236645187514938
+    SubRoomId: 7996563388213755229
+    RoomName: TeleTubbiesHouseVampy
+    SubRoomName: Home
+  version: 1
+  environment: 0
+  environmentInitialized: 1

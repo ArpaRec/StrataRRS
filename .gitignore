@@ -1,0 +1,26 @@
+# Unity project .gitignore
+
+# Unity Scratch
+/[Bb]uild/
+/[Bb]uilds/
+/Library/
+/Logs/
+/[Oo]bj/
+/Temp/
+/UserSettings/
+/*.csproj
+/*.sln
+
+#Rider Unity-Plugin Directory
+/Assets/Plugins/Editor/
+/Assets/Plugins/Editor.meta
+
+# Unity3D Generated File On Crash Reports
+/sysinfo.txt
+
+# Unity3D Memory Captures
+/MemoryCaptures/
+
+# Rec Room Studio Packages (feel free to remove this section if you'd like to track these in git after all):
+/RecRoomStudioPackages/
+/RecRoomStudioTestingPackages/

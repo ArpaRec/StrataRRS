@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Skybox_Dawn_Mat
+  m_Shader: {fileID: 4800000, guid: a112ec737123d60489384e50a0f6b630, type: 3}
+  m_ShaderKeywords: _SUNDISK_HIGH_QUALITY
+  m_LightmapFlags: 5
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats:
+    - _AtmosphereThickness: 0.97
+    - _BumpScale: 1
+    - _Cutoff: 0.5
+    - _DetailNormalMapScale: 1
+    - _DiscSize: 0.05
+    - _DstBlend: 0
+    - _Exposure: 1.19
+    - _Glossiness: 0.5
+    - _GlowHorizon: 0.92
+    - _GlowStrength: 0.84
+    - _HorizonSize: 0.52
+    - _HorizonStrength: 2
+    - _Metallic: 0
+    - _Mode: 0
+    - _OcclusionStrength: 1
+    - _Parallax: 0.02
+    - _SrcBlend: 1
+    - _SunClipOffset: 0.03
+    - _SunDisk: 2
+    - _SunGlowSize: 0.4
+    - _SunSize: 0.033
+    - _SunSizeConvergence: 5
+    - _UVSec: 0
+    - _ZWrite: 1
+    m_Colors:
+    - _Color: {r: 1, g: 1, b: 1, a: 1}
+    - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
+    - _GlowColor: {r: 0.8509804, g: 0.6314513, b: 0.49782354, a: 0}
+    - _GroundBottom: {r: 0.606, g: 0.2994675, b: 0.27754802, a: 0}
+    - _GroundColor: {r: 0.6886792, g: 0.33535808, b: 0.26312745, a: 1}
+    - _GroundTop: {r: 0.59900004, g: 0.324658, b: 0.41610527, a: 0}
+    - _HorizonColor: {r: 0.84313726, g: 0.4333726, b: 0.63407373, a: 0}
+    - _SkyBottom: {r: 0.71129405, g: 0.34311372, b: 0.7607843, a: 0}
+    - _SkyTint: {r: 0.9716981, g: 0.21542363, b: 0.81612456, a: 1}
+    - _SkyTop: {r: 0.16415685, g: 0.18109997, b: 0.36078432, a: 1}
+    - _SunColor: {r: 1, g: 1, b: 1, a: 0}
+    - _SunDir: {r: 0.7082322, g: -0.017452408, b: -0.70576394, a: 0}
+  m_BuildTextureStacks: []

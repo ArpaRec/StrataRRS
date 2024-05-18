@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Skybox_Night_Mat
+  m_Shader: {fileID: 4800000, guid: a112ec737123d60489384e50a0f6b630, type: 3}
+  m_ShaderKeywords: _SUNDISK_NONE
+  m_LightmapFlags: 5
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats:
+    - _AtmosphereThickness: 0.85
+    - _BumpScale: 1
+    - _Cutoff: 0.5
+    - _DetailNormalMapScale: 1
+    - _DiscSize: 0
+    - _DstBlend: 0
+    - _EmissivePower: 0
+    - _Exposure: 1
+    - _Glossiness: 0.5
+    - _GlowHorizon: 0
+    - _GlowStrength: 0
+    - _HorizonSize: 1.08
+    - _HorizonStrength: 0.41
+    - _Metallic: 0
+    - _Mode: 0
+    - _OcclusionStrength: 1
+    - _Parallax: 0.02
+    - _SrcBlend: 1
+    - _SunClipOffset: 0.03
+    - _SunDisk: 0
+    - _SunGlowSize: 0
+    - _SunSize: 0.16
+    - _SunSizeConvergence: 5
+    - _UVSec: 0
+    - _ZWrite: 1
+    m_Colors:
+    - _Color: {r: 1, g: 1, b: 1, a: 1}
+    - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
+    - _GlowColor: {r: 0.42615473, g: 0.38364774, b: 1, a: 1}
+    - _GroundBottom: {r: 0.0627451, g: 0.07153823, b: 0.12156863, a: 0}
+    - _GroundColor: {r: 0.78199995, g: 0.2987263, b: 0.15874599, a: 1}
+    - _GroundHorizonColor: {r: 0.888, g: 0.31002998, b: 0.06830769, a: 1}
+    - _GroundMidColor: {r: 1, g: 0.595232, b: 0.07692307, a: 1}
+    - _GroundTop: {r: 0.068981476, g: 0.091055565, b: 0.14899999, a: 0}
+    - _GroundTopColor: {r: 1, g: 0.59607846, b: 0.078431375, a: 1}
+    - _HorizonColor: {r: 0.11764705, g: 0.14854802, b: 0.30980393, a: 1}
+    - _SkyBottom: {r: 0.08262745, g: 0.09900839, b: 0.16862746, a: 0}
+    - _SkyHorizonColor: {r: 0.2177, g: 0.33898997, b: 0.622, a: 1}
+    - _SkyMidColor: {r: 0.1835294, g: 0.19165774, b: 0.39215687, a: 1}
+    - _SkyTint: {r: 0.8967657, g: 0, b: 1, a: 1}
+    - _SkyTop: {r: 0.020129036, g: 0.03774192, b: 0.078, a: 0}
+    - _SkyTopColor: {r: 0.056658823, g: 0.06277867, b: 0.1882353, a: 1}
+    - _SunColor: {r: 0.84199995, g: 0.84199995, b: 0.84199995, a: 0}
+    - _SunDir: {r: -0.003721565, g: 0.9999863, b: 0.0036827028, a: 0}
+  m_BuildTextureStacks: []
