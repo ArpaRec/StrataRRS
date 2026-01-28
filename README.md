@@ -1,3 +1,5 @@
+# THIS DOES NOTHING. IT NO LONGER WORKS.
+
 # StrataRRS
  RRS version of Strata Engine, now open source!
 
